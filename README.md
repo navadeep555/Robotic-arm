@@ -93,13 +93,6 @@ Object detection using IR or camera module
 
 Path planning for complex writing and drawing
 
-🧑‍💻 Contributors
-
-Syamala & Team
-Guided by: [Your Faculty/Guide Name]
-Department of Electronics and Communication Engineering
-[Your College Name]
-
 📜 License
 
 This project is released under the MIT License – feel free to use and modify it for educational purposes.
